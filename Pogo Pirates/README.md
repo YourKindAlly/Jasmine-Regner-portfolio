@@ -1,7 +1,6 @@
 # Pogo Pirates
 
-[ITCH.IO](https://yrgo-game-creator.itch.io/pogopirates)
-
+[itch.io](https://yrgo-game-creator.itch.io/pogopirates)
 
 *Worked as Gameplay Programmer*
 
