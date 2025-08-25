@@ -27,7 +27,7 @@ Among these I developed or used:
 Our team used scrum to create a good flow. We used weekly sprints and set up goals to be completed and helped each other out whenever needed.
 
 ## Code snippet
-The user class was used to keep track of the players and instantiate their parts into the game.
+The user class was used to keep track of a player's game info and instantiate their parts into the game.
 
 ```cs
 public class User
