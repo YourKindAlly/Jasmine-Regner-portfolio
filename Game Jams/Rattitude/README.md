@@ -6,6 +6,8 @@
 
 18th of October 2024 until 20th of October 2024.
 
+![Rattitude enemy pathfinding](rattitude.gif)
+
 This was one of my biggest challenges as a programmer up until that point. I had never worked with pathfinding or A* before. And to top it all off, it was ona a three day game jam!
 
 ## My part in the team
