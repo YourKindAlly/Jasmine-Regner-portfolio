@@ -8,6 +8,8 @@
 
 I loved working with this game. It taught me a lot about programming design patterns, when to make critical decisions and my ability to work in a team.
 
+![Pogo Pirates lobby](PogoPiratesLobby.gif)
+
 ## Gameplay
 During the creation of Pogo Pirates, I worked with:
 
