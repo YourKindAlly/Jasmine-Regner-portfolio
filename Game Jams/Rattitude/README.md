@@ -12,6 +12,10 @@ This was one of my biggest challenges as a programmer up until that point. I had
 I spent 12 about how A* is implemented and making the code from scratch. We used the 2D tilemap grid to make the movement and then I used A* to make the enemy AI/pathfinding.
 
 ## Code snippet
+The enemy movement that uses A* pathfinding.
+
+<details>
+<summary>Show me!</summary>
 
 ```cs
 public class EnemyMovement : GridMovement
@@ -120,3 +124,4 @@ public class EnemyMovement : GridMovement
     ...
 }
 ```
+</details>

@@ -34,6 +34,7 @@ The user class was used to keep track of a player's game info and instantiate th
     <summary> Show me! </summary>
 
 ```cs
+
 public class User
 {
     public int joinId;
