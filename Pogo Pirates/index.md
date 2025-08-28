@@ -33,6 +33,8 @@ The user class was used to keep track of a player's game info and instantiate th
 <details>
     <summary> Show me! </summary>
 
+{% raw %}
+
 ```cs
 
 public class User
@@ -121,4 +123,6 @@ public class User
     }
 }
 ```
+
+{% endraw %}
 </details>
