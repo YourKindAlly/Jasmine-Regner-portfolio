@@ -16,6 +16,8 @@ I spent 12 hours to read about how A* is implemented and making the code from sc
 ## Code snippet
 The enemy movement that uses A* pathfinding.
 
+{::options parse_block_html="true" /}
+
 <details>
 <summary>Show me!</summary>
 
