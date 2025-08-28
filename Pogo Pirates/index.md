@@ -31,10 +31,7 @@ Our team used scrum to create a good flow. We used weekly sprints and set up goa
 The user class was used to keep track of a player's game info and instantiate their parts into the game.
 
 <details>
-    <summary> Show me! </summary>
-
-{% raw %}
-
+    <summary>→ Show me! ←</summary>
 ```cs
 
 public class User
@@ -123,6 +120,4 @@ public class User
     }
 }
 ```
-
-{% endraw %}
 </details>
