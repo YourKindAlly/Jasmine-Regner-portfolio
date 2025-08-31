@@ -8,7 +8,7 @@ Capture the flag is an unreleased solo project. It is a LAN multiplayer game mad
 
 It was quite a challenge to work with multiplayer as I had never done so before.I did learn how server and clients work and how to host a dedicated server in Godot.
 
-![Capture the Flag lobby and gameplay](CaptureTheFlag.GIF)
+![Capture the Flag lobby and gameplay](CaptureTheFlag.gif)
 
 # What I did
 * I made a dedicated server to use for LAN multiplayer

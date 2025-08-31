@@ -1,10 +1,10 @@
 # Jasmine Regnér's portfolio
 ## Games
-### [Pogo Pirates](Pogo Pirates#) ← Click for more info!
+### [Pogo Pirates](https://github.com/YourKindAlly/Jasmine-Regner-portfolio/blob/main/Pogo%20Pirates/README.md) ← Click for more info!
 
 
 ## Small projects
-### [Capture the Flag](Small projects/CaptureTheFlag#) ← Click for more info!
+### [Capture the Flag](https://github.com/YourKindAlly/Jasmine-Regner-portfolio/blob/main/Small%20projects/CaptureTheFlag/README.md) ← Click for more info!
 
 ## Game Jams
-### [Rattitude](Game Jams/Rattitude#) ← Click for more info!
+### [Rattitude](https://github.com/YourKindAlly/Jasmine-Regner-portfolio/blob/main/Game%20Jams/Rattitude/README.md) ← Click for more info!
